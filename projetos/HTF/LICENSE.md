@@ -15,7 +15,7 @@ Para mais detalhes, consulte o texto completo da licença em: [Creative Commons 
 **Uso Comercial**:
 Qualquer uso comercial do material exigirá uma permissão separada dos autores. Para solicitar permissão para uso comercial, entre em contato com os autores.
 
-<img src="docs/src/images/Cc-by-nc-sa_icon.svg.png" width="400px" />
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/thbramos/IA376_HTF">SGAN-IA376N</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/NoronhaH/IA376_HTF">Hiuri Noronha and Thiago Belina</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ---
 
